@@ -77,14 +77,23 @@
   "advanced_database_export_button_text": {
     "message": "Export File…"
   },
+  "advanced_database_sync_button_text": {
+    "message": "Sync File"
+  },
   "advanced_database_export_description": {
     "message": "Saves a file containing every highlight appearance and style currently in the database. If you haven't enabled the 'Ask where to save each file before downloading' option in Chrome, the file will probably be saved in your Downloads folder."
+  },
+  "advanced_database_sync_description": {
+    "message": "Sync to Server"
   },
   "advanced_database_export_file_name": {
     "message": "Super Simple Highlighter Backup"
   },
   "advanced_database_export_title": {
     "message": "Backup"
+  },
+  "advanced_database_sync_title": {
+    "message": "Sync"
   },
   "advanced_database_heading": {
     "message": "Experimental - use at your own risk (or at least test it beforehand)"

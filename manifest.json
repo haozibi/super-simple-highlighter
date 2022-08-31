@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "__MSG_extension_name__",
-	"version": "4.0.3",
+	"version": "6.0.0",
 	"default_locale": "en",
 	"description": "__MSG_extension_description__",
 	"icons": {
@@ -88,6 +88,8 @@
 	"permissions": [
 		"clipboardWrite",
 		"tts",
+		"identity",
+		"identity.email",
 		"storage",
 		"contextMenus",
 		"unlimitedStorage",
